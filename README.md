@@ -7,10 +7,10 @@ You can visualize results in the Streamlit app [here](https://bongard.streamlit.
 ## Next steps
 
 - Investigate model descriptions of abstract images, independent of the Bongard task. Indeed, this currently seems to be the bottleneck, not the abstract reasoning aspects.
-- Add an LLM evaluation of model responses: give an LLM the solution and a model response, and ask it to determine whether the response is correct
-- Evaluate more models than Haiku and Opus (including future releases targeting diagrams)
-- Do more prompt engineering to 
-- Evaluate via classification rather than description (that is, given 5 left images and 5 right images, place a new image in the correct group)
+- Add an LLM evaluation of model responses: give an LLM the solution and a model response, and ask it to determine whether the response is correct.
+- Evaluate more models than Haiku and Opus (including future releases targeting diagrams).
+- Do more prompt engineering.
+- Evaluate via classification rather than description. That is, given 5 left images and 5 right images, ask the model to place a new image in the correct group.
 
 ## Resources
 

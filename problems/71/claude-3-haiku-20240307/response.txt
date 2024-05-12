@@ -1,25 +1,33 @@
 <thinking>
-Okay, let's take a close look at all 12 images and describe them in detail:
+Analyzing the 'left' group of images:
 
-Left group:
-1. This image shows a triangle with a circle inside it.
-2. This image shows two circles, one larger than the other.
-3. This image shows a triangle with a square inside it.
-4. This image shows a circle with a triangle inside it.
-5. This image shows a triangle with a circle and a square inside it.
-6. This image shows a square with a triangle inside it.
+1. The first image shows a triangle with a circle in the center and a smaller triangle at the top.
+2. The second image shows an irregular shape with a circle and square inside it.
+3. The third image shows a large triangle with a smaller triangle inside it.
+4. The fourth image shows a circle with a triangle inside it.
+5. The fifth image shows a triangle with a circle and square inside it.
+6. The sixth image shows a triangle with a circle, square, and triangle inside it.
 
-Right group:
-1. This image shows a triangle with a smaller triangle inside it.
-2. This image shows three shapes - a triangle, a square, and a circle.
-3. This image shows a circle with a triangle inside it.
-4. This image shows a square with a circle inside it.
-5. This image shows a triangle, a square, and a circle, all separate.
-6. This image shows a triangle with a square inside it.
+Analyzing the 'right' group of images:
 
-The key difference between the left group and the right group is that the images in the left group all have at least one shape nested or contained within another shape, while the images in the right group do not have any nested shapes. The shapes in the right group are either separate or touching, but not contained within each other.
+1. The first image shows a large triangle with a smaller triangle and a square inside it.
+2. The second image shows various geometric shapes including a triangle, square, and circles.
+3. The third image shows a circular shape with various geometric shapes inside it.
+4. The fourth image shows a large triangle with a smaller triangle and a square inside it.
+5. The fifth image shows a large triangle with a smaller triangle and a square inside it.
+6. The sixth image shows a large triangle with a smaller triangle and a square inside it.
+
+Thinking about the differences between the two groups:
+
+The main difference between the two groups of images is the complexity and arrangement of the shapes within the larger shapes. The 'left' group of images generally have simpler and more organized arrangements of shapes within the larger shapes, while the 'right' group of images have more complex and less organized arrangements of shapes within the larger shapes.
 </thinking>
 
 <answer>
-The difference between the images in the left group and the right group is that the images in the left group all contain at least one shape nested or contained within another shape, while the images in the right group do not have any nested shapes. The shapes in the right group are either separate or touching, but not contained within each other.
+The key difference between the 'left' group and 'right' group of images is the complexity and organization of the shapes within the larger shapes:
+
+Left group:
+The images in the left group generally have simpler and more organized arrangements of shapes within the larger shapes. The larger shapes (usually triangles) contain a smaller number of distinct shapes (e.g. a circle, square, or triangle) in a well-defined configuration.
+
+Right group:
+The images in the right group have more complex and less organized arrangements of shapes within the larger shapes. The larger shapes (usually triangles) contain a greater number of distinct shapes (e.g. circles, squares, triangles) in a less well-defined configuration.
 </answer>

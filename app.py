@@ -99,7 +99,7 @@ def main():
 
     # Dropdown to select the model
     st.markdown("### Model")
-    model_list = ["claude-3-haiku-20240307"]
+    model_list = ["claude-3-haiku-20240307", "claude-3-opus-20240229"]
     model_name = st.selectbox("Select a model", model_list)
 
     # Display the model response (and prompt optionally)

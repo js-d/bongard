@@ -1,0 +1,29 @@
+Left group:
+1. A vertical line with two shorter lines branching off diagonally upwards to the right, forming a Y-shape.
+2. Two angled lines, one extending up and to the right, the other down and to the right, connected at their left endpoints to form a V-shape.
+3. A vertical line with two shorter horizontal lines extending to the right, one from the top of the vertical line, one from the bottom, forming a U-shape.
+4. Two lines, one angled up and to the right connected at its leftmost point to a vertical line.
+5. An angled line extending down and to the right with a vertical line extending up from its left endpoint, then turning 90 degrees to the right.
+6. A vertical line with a single shorter line angled up and to the right from the top of the vertical line, forming a corner shape or 7-shape without the horizontal top line.
+
+Right group:
+1. A vertical line with a 6-pointed asterisk or star shape formed by 3 lines crossing at the top of the vertical line.
+2. Two angled lines, one pointing up and right, one down and right, with their right endpoints connected by a vertical line to form a triangle, attached to a single line extending to the left from the leftmost point of the triangle.
+3. Tree-like shape with a vertical trunk and two angled branches extending up and out to either side from the top of the trunk.
+4. Two angled lines, one pointing up and right, the other down and right, connected at their left endpoints, with a third line extending down and right from their intersection, forming an arrow shape pointing down and right.
+5. A curved V or U shape formed by two angled lines, with a vertical line extending upwards from the intersection point of the two angled lines.
+6. 5 lines forming an asterisk or starburst shape, with one line vertical, two angled up and out from the center, and two angled down and out from the center.
+
+<thinking>
+The key difference between the left and right groups seems to be that the figures in the left group contain no closed shapes or intersecting lines, while the figures in the right group all contain some kind of closed shape or intersecting lines.
+
+The left figures are all open-ended, consisting of lines that do not cross or connect back to themselves to enclose a space. The lines branch or meet at endpoints but do not intersect otherwise.
+
+In contrast, the right figures feature intersecting lines that cross to form additional shapes. Some have triangle or diamond-like enclosures. Others have star/asterisk shapes created by multiple intersecting lines radiating from a central point.
+
+So in summary, the left shapes are open, the right have closed shapes or intersections.
+</thinking>
+
+<answer>
+The images in the left group are all open, linear figures consisting of lines that meet or branch but do not cross or fully enclose any spaces. The images in the right group all contain closed shapes or intersecting lines that cross to form shapes like triangles, diamonds, asterisks or more complex enclosed figures.
+</answer>

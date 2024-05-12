@@ -1,0 +1,25 @@
+Left group:
+1. A single black circle, a black triangle below it, and to the right of the triangle, another single black circle.
+2. A single black triangle at the top, with two black circles below it.
+3. A large black circle at the top, a small white circle in the middle, and a black triangle at the bottom.
+4. Three shapes in a triangular arrangement - a black circle at the top, a black circle at the bottom left, and a black triangle at the bottom right.
+5. A large black circle at the top, two smaller black circles below it, and a black triangle at the bottom.
+6. Two black circles next to each other at the top, and a black triangle below them in the center.
+
+Right group:
+1. A black triangle at the top, a black circle to the left below it, and another black circle to the right of the first circle.
+2. A black triangle at the top, two black circles next to each other below it, and a third black circle below the two circles.
+3. Three shapes arranged vertically - a black circle at the top, a black triangle in the middle, and another black circle at the bottom.
+4. A single black circle at the top, a black triangle below it, and another black circle below the triangle.
+5. Two black circles next to each other at the bottom, and a black triangle above them in the center.
+6. A black triangle and black circle next to each other at the top, and a single black circle centered below them.
+
+<thinking>
+In the left group, the triangle is always at or near the bottom of the arrangement. The circles are above the triangle or surrounding it.
+In the right group, the triangle is always at or near the top of the arrangement. The circles are below the triangle or surrounding it.
+So the key difference is the relative position of the triangle - at the bottom for the left group, and at the top for the right group.
+</thinking>
+
+<answer>
+In the images on the left, the triangle shape is always positioned at or near the bottom of the arrangement, with the circular shapes above it or surrounding it. In the images on the right, the triangle shape is always positioned at or near the top of the arrangement, with the circular shapes below it or surrounding it. The key distinguishing factor between the two groups is the relative position of the triangular shape.
+</answer>

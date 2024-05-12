@@ -1,0 +1,25 @@
+Left group:
+1. A single square and a right-angled triangle pointing up and to the right.
+2. Two squares, one above a larger one.
+3. Four small squares arranged in a larger square formation, with one square missing from the lower right corner.
+4. A right-angled triangle pointing right, followed by two squares.
+5. A right-angled triangle pointing up, three squares arranged in an L-shape.
+6. Two squares side-by-side, a right-angled triangle pointing down, and another square below the triangle.
+
+Right group:
+1. A right-angled triangle pointing up, a square, a right-angled triangle pointing down, and another square, all arranged vertically.
+2. A right-angled triangle pointing right, a square to its right, and two more squares below forming a square shape.
+3. A square, two squares side-by-side to its right, and a single square below the left square in the pair.
+4. A right-angled triangle pointing right, two squares arranged vertically to its right.
+5. Two squares, one above the other, followed by a single square to their right.
+6. A single square followed by two squares, one above the other, to its right.
+
+<thinking>
+The left group images all contain shapes that connect to form a single polygon or continuous line. The squares and triangles touch at their edges or corners to create a cohesive shape.
+
+In contrast, the right group images have shapes that are disconnected or separated from each other. There are gaps between the squares and triangles, and they do not form a continuous polygon.
+</thinking>
+
+<answer>
+The key difference between the left and right groups is that the images in the left group contain shapes that connect to form a single continuous polygon or line, while the images in the right group have shapes that are disconnected or separated from each other with gaps between them.
+</answer>

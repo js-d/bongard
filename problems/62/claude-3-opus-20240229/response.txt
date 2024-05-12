@@ -1,0 +1,26 @@
+Left group:
+1. A curved line that spirals inward counterclockwise.
+2. A curved line spiraling inward counterclockwise with a small loop at the end.
+3. A slightly wavy line sloping down from left to right.
+4. Two mirrored curved lines spiraling inward, meeting at a point in the middle.
+5. A wavy line that curves upward at the right end.
+6. A tight counterclockwise spiral made of curved lines.
+
+Right group:
+1. A bean-shaped closed curve.
+2. Two closed bean-shaped curves next to each other and connected.
+3. A spiral shape made of two curved sections, the right side larger than the left.
+4. A closed shape made of one smaller loop on the left connected to a larger loop on the right.
+5. An elongated S-shape made of two opposing curves.
+6. An M-shaped figure made of two opposing curves meeting at an angle in the middle.
+
+<thinking>
+The left group contains open curved and spiral lines. None of the shapes are fully closed.
+The right group contains closed shapes and loops. All the figures consist of connected curves that form an enclosed shape.
+The key difference seems to be that the left shapes are open lines, while the right shapes are closed curves and loops.
+</thinking>
+
+<answer>
+The images in the left group are all open, curved lines and spirals. None of the left shapes form an enclosed or closed shape.
+In contrast, the images in the right group are all closed shapes made up of curved lines that connect to enclose an area. Every shape in the right group contains some kind of loop or closed figure.
+</answer>

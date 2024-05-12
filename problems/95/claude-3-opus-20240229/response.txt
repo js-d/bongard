@@ -1,0 +1,26 @@
+Left group:
+1. A right-angled triangle made up of vertical and horizontal lines. The vertical side is on the left.
+2. A square made up of vertical and horizontal lines.
+3. An oval or egg shape made up of vertical and horizontal lines, with the narrower end pointing left.
+4. A circle made up of vertical and horizontal lines.
+5. A right-angled triangle made up of vertical and horizontal lines, with the vertical side on the right, pointing down. It is the mirror image of image 1.
+6. An equilateral triangle made up of vertical and horizontal lines, pointing down.
+
+Right group:
+1. A parallelogram made up of vertical and horizontal lines, slanting down and to the right.
+2. A circle made up of vertical and horizontal lines, with a wedge-shaped piece removed from the right side.
+3. A heart shape made up of vertical and horizontal lines.
+4. A right-angled triangle made up of vertical and horizontal lines, with the vertical side on the left, pointing up. The hypotenuse is made up of very short lines compared to the other sides.
+5. A square made up of vertical and horizontal lines, with 3 lines removed from the right side.
+6. An egg or oval shape made up of vertical and horizontal lines, with the narrower end pointing right.
+
+<thinking>
+The key differences I notice between the left and right groups are:
+1. The shapes in the left group are made up of continuous, unbroken lines, while the shapes in the right group have gaps or missing pieces in the lines.
+2. The shapes in the left group are more regular and symmetrical, while the shapes in the right group are more irregular and asymmetrical.
+3. The left group contains shapes like circles, squares, and equilateral triangles, while the right group has more complex shapes like parallelograms and heart shapes.
+</thinking>
+
+<answer>
+The main difference between the images in the left group and right group is that the shapes in the left group are made up of continuous, unbroken vertical and horizontal lines, forming complete regular shapes. In contrast, the shapes in the right group are made of vertical and horizontal lines that have gaps or pieces missing, forming more irregular and asymmetrical shapes.
+</answer>

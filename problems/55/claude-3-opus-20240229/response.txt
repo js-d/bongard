@@ -1,0 +1,25 @@
+Left group:
+1. A rectangular shape with a jagged protrusion on the bottom right corner.
+2. A rectangular shape with a jagged protrusion extending from the bottom center.
+3. A circular shape with a jagged piece missing from the bottom.
+4. A circular shape with a jagged protrusion extending inward from the top.
+5. A triangular shape with a jagged protrusion extending from the bottom right side.
+6. A rectangular shape with a jagged protrusion extending inward from the right side.
+
+Right group:
+1. A circular shape with a jagged protrusion extending outward from the top.
+2. A rectangular shape with an L-shaped jagged protrusion extending outward from the bottom right corner.
+3. A circular shape with a small jagged protrusion extending outward from the top right.
+4. A circular shape with a jagged protrusion extending outward from the bottom.
+5. A triangular shape with a jagged protrusion extending outward from the top right corner.
+6. A circular shape with a jagged protrusion extending outward from the bottom right.
+
+<thinking>
+- The left group contains shapes with jagged protrusions that extend inward or are missing pieces, giving an impression of concavity or incompleteness.
+- The right group contains shapes with jagged protrusions that extend outward, giving an impression of convexity or growth.
+- The key difference seems to be the direction and nature of the jagged protrusions - inward or missing in the left group, and outward in the right group.
+</thinking>
+
+<answer>
+The main difference between the images in the left group and the right group is the direction and nature of the jagged protrusions. In the left group, the jagged protrusions either extend inward towards the center of the shape or appear as missing pieces, creating a sense of concavity or incompleteness. In contrast, the images in the right group feature jagged protrusions that extend outward from the main shape, giving an impression of convexity or growth.
+</answer>

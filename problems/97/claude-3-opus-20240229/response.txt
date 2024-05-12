@@ -1,0 +1,23 @@
+Left group:
+1. A black triangle made up of small squares, with one side longer than the other two.
+2. A triangle shape made up of small black circles, getting denser towards the center.
+3. A triangle shape made up of dashed lines that get denser towards one side.
+4. A solid black equilateral triangle pointing downwards.
+5. A series of parallel diagonal lines leaning to the right, getting denser towards the bottom.
+6. A roughly circular shape made up of randomly scattered dots that are denser in the center.
+
+Right group:
+1. A black circular outline with a hollowed out center.
+2. A circular pattern of evenly spaced out black triangles pointing inwards.
+3. A black starburst or asterisk shape with lines radiating from the center.
+4. A black circular outline made up of dashed lines.
+5. A filled in black circle made up of hexagonally packed smaller circles.
+6. A filled in black circle.
+
+<thinking>
+The key difference seems to be that the shapes in the left group are generally triangular or pointed, while the shapes in the right group are circular or round. The left shapes have a clear directionality or asymmetry to them, with the density or pattern changing across the shape. The right shapes are more evenly patterned or symmetrical around the center point.
+</thinking>
+
+<answer>
+The shapes in the left group are triangular or pointed, with an asymmetrical pattern or density that changes across the shape. The shapes in the right group are circular or round, with an even, symmetrical pattern radiating from the center.
+</answer>

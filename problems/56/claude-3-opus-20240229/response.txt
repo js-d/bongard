@@ -1,0 +1,27 @@
+Left group:
+1. Triangle shape made of three small black circles.
+2. Two black shapes - a triangle and a small circle separate from each other.
+3. Triangle pointing up above a small circle, and another small circle to the left of the triangle.
+4. Three black shapes - a triangle, a circle below it, and another circle to the right of the triangle.
+5. Triangle above a circle.
+6. Triangle above and to the right of a circle.
+
+Right group:
+1. Two black circles above a triangle shape.
+2. Three black shapes - two small circles above a larger triangle shape.
+3. Triangle below a circle, and another small circle to the right of the triangle.
+4. Triangle below and to the left of a circle.
+5. Triangle shape to the left of a circle.
+6. Four black shapes arranged in a diamond - a triangle, two circles, and an upside-down triangle.
+
+<thinking>
+The key difference seems to be the relative positioning of the triangle and circle shapes:
+- In the left group, the triangle is always above or to the upper right of any circles. The triangle points upwards.
+- In the right group, the triangle is always below or to the lower left of any circles. The triangle points downwards.
+The number of shapes varies in each image, but the positioning rule holds true across all images in each group.
+</thinking>
+
+<answer>
+In the left group images, the triangle shape always points upwards and is positioned above or to the upper right of any circles.
+In the right group images, the triangle shape always points downwards and is positioned below or to the lower left of any circles.
+</answer>

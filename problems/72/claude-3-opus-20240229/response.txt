@@ -1,0 +1,25 @@
+Left group:
+1. A curved line that starts thin on the left side, thickens in the middle, and tapers back to thin on the right side.
+2. Two curved lines that meet at the top and bottom to form an oval-like shape.
+3. A closed circular shape with a curved line extending out from the top right.
+4. A closed, slightly irregular circular shape with thin lines extending inward from the top and bottom.
+5. A wavy line that curves down, then up sharply to the right.
+6. A curved, bean-like shape with one end larger than the other.
+
+Right group:
+1. A question mark-like shape with the curved part on the left and the straight part extending to the right.
+2. A wavy, snake-like line that curves up on the left, then down on the right.
+3. A shape resembling a footprint, with a rounded portion on the left and a extending, tapering portion to the upper right.
+4. A curved line that forms most of an incomplete circle, with the open part at the bottom.
+5. A shape resembling a reversed "S", starting low on the left curving up then curving back down to the right.
+6. A spiral-like shape formed by a curved line that loops around once.
+
+<thinking>
+The key difference I notice between the left and right groups is that the shapes in the left group all have their end(s) or extension(s) pointing to the left or up and to the left, while the shapes in the right group all have their end(s) or extension(s) pointing to the right or up and to the right.
+
+The left group shapes curve, extend or open towards the left side, while the right group shapes curve, extend or open towards the right side. This left vs right orientation seems to be the defining distinction between the two sets of shapes.
+</thinking>
+
+<answer>
+The shapes in the left group all have ends or extensions pointing left or up and to the left, while the shapes in the right group all have ends or extensions pointing right or up and to the right. The differentiating rule is that shapes in the left set open or extend towards the left side, while shapes in the right set open or extend towards the right side.
+</answer>

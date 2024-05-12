@@ -1,0 +1,26 @@
+Left group:
+1. A vertical branch with a smaller branch protruding to the upper left at an acute angle.
+2. A vertical branch with a smaller branch extending to the upper right at an obtuse angle.
+3. A curved branch, concave down, with a smaller branch coming off the right side and angling upwards.
+4. A vertical branch that splits into two upward-angling branches in a Y-shape.
+5. An upward curving branch that reverses curvature direction, becoming concave up. A second branch splits off and angles upward from the inflection point.
+6. A curved branch, concave up, with a smaller branch angling upwards from the left side of the arch.
+
+Right group:
+1. A curved branch, concave up, with a smaller branch angling downward from the right side of the arch.
+2. A vertical branch that splits in a Y-shape. The right fork angles upward while the left fork angles downward.
+3. A vertical branch that splits in a Y-shape, with the left fork angling upward and the right fork angling downward.
+4. A vertical branch that splits into 3 branches in a pitchfork shape. The center branch continues vertically while the left and right branches angle outward and downward symmetrically.
+5. A vertical branch that splits into 3 asymmetrical branches. The leftmost branch angles upward while the center and right branches angle downward, with the rightmost branch having the steepest downward angle.
+6. A curved branch, concave down, that splits into 3 branches at its right end. The top branch angles upward while the lower two branches angle downward.
+
+<thinking>
+The key difference between the left and right groups seems to be the direction that the secondary branches grow:
+- In the left group images, the secondary branches consistently angle upwards from the main branch.
+- In the right group images, at least one of the secondary branches angles downward from the main branch or branching point.
+The left group shows upward-pointing branching patterns, while the right group shows downward-pointing branches mixed with upward or horizontal branches.
+</thinking>
+
+<answer>
+The images in the left group all contain branch structures where the secondary branches exclusively angle upwards from the main branch. In contrast, the images in the right group feature branch structures where at least one of the secondary branches angles downward, either from the main branch itself or from a splitting point, often mixed with upward pointing branches in a pitchfork-like shape.
+</answer>

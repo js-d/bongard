@@ -1,0 +1,31 @@
+Left group:
+1. An oval shape and an X symbol.
+2. An X symbol to the left of an oval shape.
+3. An X symbol and an oval shape, with the oval shape overlapping the X. 
+4. An oval shape overlapping a cross symbol, with an X symbol to the right.
+5. An X symbol, an oval shape overlapping a cross symbol, and another cross symbol to the far right.
+6. A cross symbol to the left, an oval shape overlapping another cross symbol, and an X symbol at the bottom right.
+
+Right group:
+1. A cross symbol above an oval shape, with an X symbol to the left.
+2. An X symbol to the left, oval shapes overlapping a cross symbol.
+3. An X symbol to the left of an oval shape, with another oval shape overlapping the first.
+4. Oval shapes overlapping each other, with an X symbol to the right and a small circle at the bottom.
+5. A cross symbol to the left of an oval shape, with a small circle at the bottom right.
+6. A cross symbol to the far right, an oval shape, and another cross symbol to the left of the oval.
+
+<thinking>
+In the left group images, the X symbol always appears to the right of or below the oval shape. The oval shape also overlaps a cross symbol in some images in the left group.
+
+In the right group images, the X symbol always appears to the left of or above the oval shape. The oval shapes overlap each other or a cross symbol in the right group, but the X is never overlapped.
+
+So the key difference seems to be the relative positioning of the X symbol to the oval shape. In the left group the X is to the right or below the oval, while in the right group the X is to the left or above the oval.
+</thinking>
+
+<answer>
+The key difference between the left and right groups is the positioning of the X symbol relative to the oval shape:
+
+In the left group images, the X symbol always appears to the right of or below the oval shape. The oval may overlap a cross symbol, but never the X.
+
+In the right group images, the X symbol always appears to the left of or above the oval shape. The oval shapes may overlap each other or a cross symbol, but they never overlap the X symbol.
+</answer>

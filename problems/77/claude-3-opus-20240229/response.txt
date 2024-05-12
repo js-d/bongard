@@ -1,0 +1,33 @@
+Left group:
+1. An upside-down V shape made of pixels, with the right side extending downwards.
+2. An upside-down V shape with the right side extending downwards, and a horizontal line at the bottom.
+3. Three lines made of pixels: a diagonal going down and to the right, a horizontal line at the bottom, and a shorter diagonal branching upwards to the right from the first diagonal.
+4. Two pixel lines forming a V shape, with a vertical line bisecting the V.
+5. A jagged line going diagonally downwards, then bending upwards to the right at a right angle.
+6. A jagged line going diagonally downwards to the right, then curving back upwards to the left.
+
+Right group:
+1. An upside-down V shape, with the left side extending downwards.
+2. A diagonal line going down and to the right, with a short vertical line at the bottom.
+3. Three lines: a diagonal going down and to the right, a horizontal line at the bottom, and a shorter diagonal branching downwards to the right from the first diagonal.
+4. Two lines forming an upside-down V shape, with the left side of the V extending downwards.
+5. A jagged line starting horizontally, then going diagonally down to the right.
+6. A curved line going diagonally down and to the right.
+
+<thinking>
+The main difference between the left and right groups seems to be the orientation of the lines and shapes. In the left group, lines and extensions tend to point or curve upwards and to the right. In the right group, lines and extensions point or curve downwards and to the right.
+
+To confirm this, I'll go through each corresponding pair of images:
+1. Left has right side extending down, right has left side extending down.
+2. Left has right side extending down, right has vertical line at bottom right.
+3. Left has diagonal branch going up to the right, right has diagonal branch going down to the right. 
+4. Left has vertical bisecting line, right has left side of V extending down.
+5. Left ends by going up and right at a right angle, right goes straight down diagonally.
+6. Left curves back up and left at the end, right curves down and right.
+
+So in summary, the key difference is that shapes and lines in the left group consistently point or extend upwards and to the right, while shapes and lines in the right group consistently point or extend downwards and to the right.
+</thinking>
+
+<answer>
+The main difference between the images in the left group and right group is the orientation of the lines and shapes. In the left group, lines, extensions and curves consistently point upwards and to the right at their ends. In contrast, lines, extensions and curves in the right group consistently point downwards and to the right at their ends.
+</answer>

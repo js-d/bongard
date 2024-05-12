@@ -1,0 +1,27 @@
+Left group:
+1. A triangular shape containing a circle in the bottom left corner, with a square to the right of the triangle.
+2. A square with a circle inside it.
+3. A square with a small circle outside the top right corner.
+4. A circular shape containing a square and triangle.
+5. A triangular shape with squares at the top left and bottom right vertices.
+6. A large circular shape containing a smaller circle and square.
+
+Right group:
+1. A triangular shape with squares along the right edge and a circle in the top left corner.
+2. A square with circles inside and outside the square, and a triangle below.
+3. A circular shape with geometric shapes arranged in a circular pattern inside - a triangle at the top, square at the right, and circle at the bottom left.
+4. A large circle containing a smaller circle, with squares to the top right and bottom left of the large circle.
+5. A triangular shape at the top with a square below, and circles to the left and right of the triangle.
+6. A triangular shape with a square inside it.
+
+<thinking>
+The left group images all contain the geometric shapes with the square to the right of the main shape (triangle or circle).
+The right group images have the square positioned differently - either inside, above, or to the left of the main shape. The circle also takes different positions in the right group.
+So the key difference seems to be the relative positioning of the square and circle shapes compared to the main shape in each image.
+</thinking>
+
+<answer>
+In the left group images, the square is always positioned to the right of the main shape (either a triangle or circle), while the circle takes other positions like inside or outside the main shape.
+In the right group images, the square is positioned differently relative to the main shape - it can be inside, above, or to the left of the triangle or circle. The circle also takes on varying positions in the right group images.
+The key differentiating factor between the two groups is the placement of the square and circle shapes in relation to the core triangle or circular shape in each image.
+</answer>

@@ -1,0 +1,31 @@
+Left group:
+1. A plus sign above a triangle, with a circle to the left.
+2. A plus sign to the right of a circle, with a triangle below the circle.
+3. A triangle above a plus sign, with a circle to the right.
+4. A circle to the left of a triangle, with a plus sign below the triangle.
+5. A circle above a triangle, with a plus sign to the right of the triangle.
+6. A circle to the left of a plus sign, with a triangle below the plus sign.
+
+Right group:
+1. A circle to the left of a plus sign, with a triangle below the plus sign.
+2. A circle above a triangle, with a plus sign to the right.
+3. A plus sign to the left of a triangle, with a circle below the triangle.
+4. A plus sign to the left of a triangle, with a circle above the triangle.
+5. A triangle above a circle, with a plus sign to the right.
+6. A triangle above a circle, with a plus sign to the left.
+
+<thinking>
+In the left group images, the plus sign always appears adjacent to the triangle - either above, below, or to the side of it. The circle is separate from the triangle-plus pair.
+
+In the right group images, the plus sign always appears separate from the triangle. It is the circle that is adjacent to the triangle, either above or below it.
+
+So the key difference is whether the plus sign is paired with the triangle (left group) or the circle is paired with the triangle (right group).
+</thinking>
+
+<answer>
+In the left group images, the plus sign is always directly adjacent to the triangle, either above, below, or to the side of it. The circle is positioned separately from the triangle and plus sign pair.
+
+In the right group images, the circle is always directly adjacent to the triangle, either above or below it. The plus sign is positioned separately from the triangle and circle pair.
+
+The distinguishing rule is that in the left group, the plus sign is paired with the triangle, while in the right group, the circle is paired with the triangle instead.
+</answer>

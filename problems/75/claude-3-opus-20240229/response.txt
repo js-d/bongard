@@ -1,0 +1,33 @@
+Left group:
+1. A curved line starting from the top left and ending at the bottom right, with a triangle at the end.
+2. A curved arc on top, with a triangle underneath.
+3. A curved line from top left to bottom right, with a triangle underneath.
+4. A curved arc on the left side, with a triangle on the right side.
+5. A curved arc on the left, with a triangle on the far right not touching the arc.
+6. A curved line from top right to bottom left, with a triangle on the left end.
+
+Right group:
+1. A curved arc on top, with a triangle underneath that is touching/overlapping the arc.
+2. A straight diagonal line from top left to bottom right, with a triangle underneath touching the line.
+3. Two angled lines forming a wide < shape, with the point facing left.
+4. An upside-down V shape on top, with an arc underneath touching the point of the V.
+5. An upside-down V shape on the left, with a C shape on the right, the two shapes touching at one point.
+6. A straight diagonal line from top right to bottom left, with a triangle underneath touching the line.
+
+<thinking>
+The key difference between the left and right groups seems to be whether the two components in each image are touching/overlapping or not.
+
+In the left group, the curved line/arc and the triangle are always separated, not touching each other.
+
+In the right group, the various lines/curves and triangles/arcs are always touching or overlapping at at least one point.
+
+So in summary:
+Left = two components not touching
+Right = two components touching/overlapping
+</thinking>
+
+<answer>
+The images in the left group all contain two separate components that are not touching each other - a curved line or arc, and a triangle. The triangle is always distinctly separated from the curved line.
+
+The images in the right group also contain two components, but they are always touching or overlapping each other at one or more points. The components vary, including straight lines, curves, arcs, triangles and other shapes, but there is always an area where the two parts intersect or touch.
+</answer>

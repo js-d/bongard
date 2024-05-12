@@ -1,0 +1,26 @@
+Left group:
+1. Seven geometric shapes arranged roughly in a triangular pattern. One square in the center, with three triangles above and three circles below.
+2. Eight geometric shapes - four triangles arranged in a diamond at the top, with a square below and three circles at the bottom in a triangular arrangement.
+3. Eleven shapes total - one square, five triangles, and five circles. Triangles and circles alternate around the square in the center.
+4. Seven shapes forming a triangular pattern. Square at the top, three triangles in the middle, three circles at the bottom.
+5. Ten shapes total. Three triangles at the top in a triangular arrangement. One square below, surrounded by six circles in a hexagonal pattern.
+6. Six shapes in a hexagonal arrangement. One triangle at the top, the square in the center, and four circles surrounding the bottom and sides of the square.
+
+Right group:
+1. Eight shapes total. One triangle at the top, two squares, then five circles arranged in a roughly X-shaped pattern.
+2. Ten shapes. Four circles form a diamond at the top, surrounded by triangles at the sides and bottom. Two squares in the center.
+3. Nine shapes forming a roughly triangular arrangement. Triangle at the top, three squares in the middle forming a triangle, five circles at the bottom.
+4. Ten shapes. Four triangles at the top forming a diamond shape. One square in the center, five circles surrounding the bottom.
+5. Nine shapes. Triangle at the top, four squares forming a larger diamond shape, four circles at the bottom corners.
+6. Fourteen total shapes. One circle at the top, triangle below. Three squares forming a triangle in the center, surrounded by nine circles forming a larger triangle.
+
+<thinking>
+The key differences seem to be:
+- The left group images always have exactly one square, while the right group has multiple squares (except for one image with two squares).
+- In the left group, the shapes are more uniformly distributed, often in triangular, diamond, or hexagonal patterns. The right group has more irregular distributions.
+- The right group tends to have the triangles towards the top and the circles towards the bottom, with squares in between. The left group mixes the shape locations more.
+</thinking>
+
+<answer>
+The fundamental difference between the left and right groups is the number of squares. The images in the left group each contain exactly one square, while the images on the right always have multiple squares (with the exception of one image that has two squares). Additionally, the left group arranges the shapes in more regular, symmetric patterns like triangles, diamonds and hexagons, while the right group has more varied, asymmetric arrangements, and tends to group similar shapes together more.
+</answer>

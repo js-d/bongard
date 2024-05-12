@@ -1,23 +1,26 @@
 Left group:
-1. Two black circular shapes, one above the other, with a black triangular shape pointing down between them.
-2. Four black shapes, two square-like shapes in the corners and two circular shapes in the middle, arranged in a diamond pattern with a circular hole in the center.
-3. A black triangular shape pointing upward, with a horizontal line segment at its base.
-4. A black home plate-shaped pentagon in the center, with two square shapes above it and one square shape below it.
-5. A black diamond shape.
-6. Two black circular shapes side by side, with two triangular shapes below them pointing downward.
+1. Two black circular shapes, one solid black equilateral triangle pointing up, and one solid black rectangle.
+2. One hollow circular shape in the center, surrounded by four black right triangles pointing inward to form a square.
+3. Two thin black right triangles stacked vertically to form an arrow pointing up, with their vertical sides touching.
+4. One black home plate shape pointing down, with two small solid black squares on either side of the top vertex.
+5. A hollow rhombus made of four black right triangles with their vertical sides touching, forming a diamond shape.
+6. Two solid black circles stacked vertically with space between them, and two solid black squares stacked vertically with space between them, arranged in alternating order.
 
 Right group:
-1. Two black circular shapes, one above the other, with a black triangular shape pointing up between them, and two line segments on either side of the triangular shape.
-2. A black home plate-shaped pentagon, with two square shapes to the right of it.
-3. A circular shape in the center, surrounded by 6 other shapes (4 square, 2 circular) arranged in a hexagonal pattern.
-4. A square shape, with a triangular shape to its right, and two circular shapes above and below the triangular shape.
-5. A black triangular shape pointing upward, with three line segments extending downward from its base at different angles.
-6. A black rectangular shape, taller than it is wide, composed of two vertically stacked squares.
+1. Two solid black circles stacked vertically, one solid black equilateral triangle pointing up, one solid black equilateral triangle pointing down, and a solid black rectangle standing vertically.
+2. One hollow equilateral triangle pointing up in the center, with two small solid black squares on either side of the top vertex.
+3. One hollow circular shape, three solid black squares arranged with two stacked vertically on the left and one on the right, forming an L-shape.
+4. One hollow square, one solid black equilateral triangle pointing up, and three solid black circles arranged in a triangle shape with one at the top and two at the bottom.
+5. Two solid black equilateral triangles pointing up, stacked vertically with space between them.
+6. One long vertical solid black rectangle.
 
 <thinking>
-The main difference between the left and right groups seems to be the presence or absence of line segments or shapes extending from the main shapes. In the left group, the images are composed of basic shapes (circles, triangles, squares) without any extending parts. In the right group, each image has at least one shape with a line segment or another shape extending out from it.
+The key differences between the left and right groups seem to be:
+1. The left group has shapes arranged to form composite shapes, while the right group has individual shapes arranged in various configurations.
+2. The left group uses mostly triangles and circles, while the right group includes more variety in shape types.
+3. The left group has more symmetry and pattern in the arrangements, while the right group's arrangements are more asymmetrical and varied.
 </thinking>
 
 <answer>
-The key difference between the images in the left group and the images in the right group is that the shapes in the left group are whole and self-contained, while the shapes in the right group have parts or lines extending out from the main shape. The left group features basic geometric shapes like circles, triangles, and squares, whereas the right group has these same basic shapes but with additional lines or smaller shapes connected to or extending from them.
+The main difference between the images in the left group and the right group is that the left group contains composite shapes formed by arranging individual shapes together, often in symmetrical or patterned ways. The right group, on the other hand, features a variety of individual shapes arranged in less structured, more varied configurations that do not form distinct composite shapes.
 </answer>

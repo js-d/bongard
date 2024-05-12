@@ -1,0 +1,27 @@
+Left group:
+1. A hollow irregular pentagon shape made up of thin black lines on a white background.
+2. A hollow irregular hexagon shape made up of thin black lines on a white background, with a small solid black triangle shape inside pointing downward.
+3. A hollow irregular hexagon shape made up of thin black lines on a white background, with a small solid black triangle shape inside pointing to the right.
+4. A hollow irregular hexagon shape made up of thin black lines on a white background, with a small solid black square shape inside.
+5. A hollow irregular hexagon shape made up of thin black lines on a white background, with a small solid black triangle shape inside pointing upward.
+6. A hollow irregular pentagon shape made up of thin black lines on a white background, with a small solid black square shape inside.
+
+Right group:
+1. A solid irregular triangle shape made up of thin black lines on a white background, with a small hollow hexagon shape inside.
+2. A solid irregular square shape made up of thin black lines on a white background, with a small hollow hexagon shape inside.
+3. A solid irregular triangle shape made up of thin black lines on a white background, with a small hollow pentagon shape inside.
+4. A solid irregular square shape made up of thin black lines on a white background, with a small hollow hexagon shape inside.
+5. A solid irregular triangle shape made up of thin black lines on a white background, with a small hollow square shape inside.
+6. A solid irregular hexagon shape made up of thin black lines on a white background, with a small hollow hexagon shape inside.
+
+<thinking>
+The key differences I notice between the left and right groups are:
+1. The outer shapes in the left group are hollow, while the outer shapes in the right group are solid.
+2. The inner shapes in the left group are solid, while the inner shapes in the right group are hollow.
+3. The outer shapes in the left group are mostly hexagons (with one pentagon), while the outer shapes in the right group have more variety (triangles, squares, hexagon).
+4. The inner shapes in the left group are simpler (triangles and squares), while the inner shapes in the right group are more complex (hexagons, pentagon, square).
+</thinking>
+
+<answer>
+The main difference between the images in the left group versus the right group is that in the left group, the outer shapes are hollow and the inner shapes are solid, while in the right group, it is the opposite - the outer shapes are solid and the inner shapes are hollow.
+</answer>

@@ -1,0 +1,36 @@
+Left group:
+1. A curved line with an arrow pointing left at one end.
+2. A curved line with an arrow pointing right at one end.
+3. An oval or elliptical shape made from a curved line.
+4. An elongated curved line forming an incomplete oval shape, open at the bottom.
+5. A curved line forming an incomplete elongated oval shape, open at the top, with an arrow pointing left at one end.
+6. A curved line forming a nearly complete oval shape but open slightly at the bottom, with small lines projecting from each end of the opening.
+
+Right group:
+1. A curved line forming an incomplete oval shape, open at the bottom, with small lines projecting from each end of the opening.
+2. A curved line forming an incomplete oval shape, open at the top, with small lines projecting from each end of the opening.
+3. A curved line forming a nearly complete oval shape but slightly open at the bottom.
+4. A curved line forming an incomplete elongated oval shape, open at the top, with a small line projecting from the right end of the opening.
+5. A curved line forming an incomplete oval shape, open at the bottom, with a small curved line attached to the left end of the opening.
+6. An oval shape made from a curved line, with a small curved line attached inside the oval, not touching the perimeter.
+
+<thinking>
+The key differences between the left and right groups seem to be:
+
+Left group:
+- All shapes are made from a single curved line
+- Some have an arrow at one end 
+- None have small lines projecting from an opening
+- Openings, if present, do not have attached lines
+
+Right group:  
+- All shapes have a small line or projection in addition to the main curved line
+- The extra line is attached to an opening in the shape, or in one case, inside the shape
+- None of the shapes have arrows
+
+So in summary, the left group shapes are made from a single curved line, sometimes with an arrow, while the right group shapes have an additional small line or projection attached to the main curved line shape.
+</thinking>
+
+<answer>
+The shapes in the left group are each made from a single curved line, and some have an arrow at one end. The shapes in the right group all have an additional small straight or curved line attached to the main curved line shape, either at an opening or inside the shape. None of the right group shapes have arrows.
+</answer>

@@ -1,0 +1,23 @@
+Left group:
+1. Two black blobs, one cross above the other, on a white background.
+2. One black blob, with a cross to its left, on a white background.
+3. Cross on the left, with three black blobs in a diagonal line to its right, on a white background.
+4. Three black blobs forming a triangle, with a cross in the lower right, on a white background.
+5. Cross on the left, three black blobs to its right with the middle blob slightly lower, on a white background.
+6. Black blob on top, cross below and to its right, two more black blobs below the cross, on a white background.
+
+Right group:
+1. Cross on the left, two black blobs to its right with the right blob higher, two more black blobs to the right of those, on a white background.
+2. Black blob on top, cross below and to its left, two more black blobs below the cross, on a white background.
+3. Cross above, two black blobs below with the right blob lower, on a white background.
+4. Two black blobs forming a diagonal with the top blob on the left, cross to the right of the lower blob, on a white background.
+5. Black blob on the left, cross to its right, two more black blobs to the right of the cross, on a white background.
+6. Cross on the left, two black blobs to its right, on a white background.
+
+<thinking>
+The key difference seems to be the relative positioning of the cross and blobs. In the left group, the cross is always to the left of or above all the blobs when looking at each image. In the right group, the cross is always to the right of or below at least one of the blobs in each image.
+</thinking>
+
+<answer>
+In the left group images, the cross symbol is always positioned to the left of or above all the black blob shapes in each image. In the right group images, the cross symbol is always positioned to the right of or below at least one of the black blob shapes in each image.
+</answer>

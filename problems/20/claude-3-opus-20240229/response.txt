@@ -1,0 +1,26 @@
+Left group:
+1. A curvy line with a small circular protrusion at one end.
+2. An outline of a curvy, roughly oval shape with two small circular protrusions opposite each other.
+3. An outline of an irregular shape with one concave and one convex side, and two small circular protrusions at opposite ends.
+4. An outline of an irregular peanut-like shape with a small circular protrusion at one end.
+5. An outline of a bulbous shape with three small circular protrusions, two together at one end and one at the opposite end.
+6. An outline of a highly irregular curvy shape with four small circular protrusions.
+
+Right group:
+1. An outline of a bone-like shape with a small circular protrusion at one end.
+2. An outline of a peanut-like shape with small circular protrusions at each end.
+3. An outline of a curled up shape, like a spiral or snail shell, with two small circular protrusions.
+4. An outline of an S-like shape with three small circular protrusions.
+5. An outline of a keyhole-like shape with a long neck and larger circular part, with two small circular protrusions on the neck.
+6. An outline of a highly irregular, meandering shape with three small circular protrusions.
+
+<thinking>
+The key differences I notice between the left and right groups:
+- The shapes in the left group are generally more compact and rounded, while the right group has more elongated, stretched out shapes
+- The protrusions in the left group stick outward, while in the right group they point inward
+- The left group shapes have protrusions on opposite sides/ends, while the right group often has protrusions along the same side
+</thinking>
+
+<answer>
+The main difference between the left and right groups is the orientation of the small circular protrusions. In the left group images, the protrusions are always pointing outward, away from the main shape. In the right group images, the protrusions point inward, back toward or into the main shape. The left group shapes tend to be more compact, while the right group contains more elongated, curving shapes.
+</answer>

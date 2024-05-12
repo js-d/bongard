@@ -1,0 +1,27 @@
+Left group:
+1. A rounded, irregularly-shaped blob with 4 smaller blobs scattered within it.
+2. A rectangular shape with 3 small blobs scattered inside it.
+3. A irregularly-rounded shape with 5 small blobs scattered inside and around its perimeter.
+4. A triangular shape made up of 6 small blobs.
+5. An elliptical or egg-shaped form containing 5 small blobs within.
+6. An arrow-like or triangular shape containing 4 small blobs - 3 inside the shape and 1 outside.
+
+Right group:
+1. A triangular shape with 6 small blobs - 5 inside the shape and 1 outside a vertex.
+2. A smiley face shape made from 5 blobs - a circular arrangement of 4 blobs with 2 representing eyes and 1 outside the circle.
+3. A rectangular shape with 4 small blobs inside - 3 scattered and 1 in a corner.
+4. An egg-shaped or elliptical arrangement of 6 small blobs.
+5. A boomerang or wide V-like shape made up of 5 small blobs.
+6. A diamond or kite-like quadrilateral shape formed by 5 blobs with 1 blob outside a vertex.
+
+<thinking>
+The left group images all contain the small blobs fully inside the overall shape, with no blobs falling outside the perimeter of the main shape.
+
+In contrast, the right group images each have at least 1 blob positioned outside the main shape, usually near a corner or vertex.
+
+So the key differentiating factor seems to be whether all the blobs are contained within the overall shape (left group) or if any blobs fall outside the main shape boundary (right group).
+</thinking>
+
+<answer>
+The images in the left group all have the small blobs fully contained within the boundaries of the larger overall shape, while each image in the right group has at least one blob that is positioned outside the perimeter of the main shape.
+</answer>

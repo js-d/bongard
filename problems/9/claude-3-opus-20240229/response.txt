@@ -1,24 +1,27 @@
 Left group:
-1. A hollow square outline with no fill.
-2. A hollow, irregular pentagon outline with no fill.
-3. A hollow, irregular blob-like shape outline with no fill.
-4. A hollow circle outline with no fill.
-5. An outline of the African continent with no fill.
-6. A hollow triangle outline with no fill.
+1. A square outline with a small square jutting out from the bottom left corner.
+2. A square outline with a small square jutting out from the top left corner.
+3. An irregular closed shape consisting of a larger curved portion on the left and a smaller curved portion on the right.
+4. A circular shape.
+5. An irregular closed shape resembling a kidney bean, with a concave portion on the left side.
+6. A triangular shape with a flat base at the bottom and the point at the top.
 
 Right group:
-1. A jagged, zig-zag line forming a closed shape with a filled interior.
-2. A jagged, saw-tooth line forming a closed rectangular shape with a filled interior.
-3. A spiky, starburst-like shape formed by jagged lines, with a filled circular interior.
-4. A very jagged, almost fuzzy, closed circular shape with a filled interior.
-5. A closed shape resembling a speech bubble or cloud, formed by a jagged line with a filled interior.
-6. A closed shape resembling a map of the UK, formed by a jagged line with a filled interior.
+1. A triangular shape resembling a mountain or pyramid, with a wider base and the point at the top.
+2. A roughly square shape made up of pixel-like smaller squares in a checkered pattern.
+3. A jagged circular shape made up of inward and outward facing spikes or zig-zags around the perimeter.
+4. A larger jagged circular shape compared to image 3, also made up of inward and outward facing spikes or zig-zags around the perimeter.
+5. An irregular branching or zig-zag line that curves and bends through the image.
+6. A shape resembling a four-pointed star or cross made up of intersecting zig-zag lines.
 
 <thinking>
-The left group contains hollow, unfilled outlines of various shapes. The right group contains closed shapes with jagged, zig-zag edges that have filled interiors. 
-The key difference seems to be that shapes in the left group have smooth edges and are unfilled, while shapes in the right group have jagged edges and are filled in.
+The left group contains mostly simple geometric shapes like squares, circles, and triangles, with a couple irregular shapes. The shapes are formed by single continuous lines.
+
+The right group contains more complex, irregular, and jagged shapes. Many are made up of repeating patterns of spikes, zig-zags, and pixel-like squares rather than simple lines. The shapes have more intricate outlines and details.
+
+The key difference seems to be that the left shapes are simpler closed shapes made by single lines, while the right shapes are more complex, often not fully enclosed, and made up of repeating jagged patterns and smaller components.
 </thinking>
 
 <answer>
-The shapes in the left group are all hollow outlines with smooth edges and no fill. In contrast, the shapes in the right group are all closed shapes with jagged, zig-zag edges and filled interiors.
+The main difference between the left and right groups is the complexity and style of the shapes. The left group contains simple, mostly geometric shapes like squares, circles, and triangles formed by single continuous lines. The right group contains more complex, irregular, jagged shapes made up of repeating patterns like spikes, zig-zags, and pixel-like components rather than simple lines.
 </answer>

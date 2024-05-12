@@ -1,0 +1,31 @@
+Left group:
+1. A circle, a square, and a triangle arranged vertically with the circle at the top, square in the middle, and triangle at the bottom.
+2. A rectangle with a triangle to its right, both shapes outlined.
+3. A square and triangle arranged diagonally, with the square at top-left and triangle at bottom-right.
+4. A circle made of dashed lines or segments.
+5. Two solid circles arranged vertically.
+6. Three outlined circles arranged to form a triangular shape.
+
+Right group:
+1. A circle and a triangle, with the circle to the left of the triangle which points to the right.
+2. A square, a triangle pointing right, and two circles arranged to form a roughly triangular shape with the square at the top, triangle in the middle and circles at the bottom.
+3. A large circle containing three smaller shapes inside it - a square, a circle, and a triangle arranged in a triangular formation.
+4. A square and two circles, with the square to the left and the two circles arranged vertically to its right.
+5. A square and two triangles, with the square to the left, one triangle pointing up above it and the other triangle pointing down below it.
+6. Two squares, one large and one small, with the small square contained inside the lower right corner of the large square.
+
+<thinking>
+The left group contains images with shapes that are separate from each other and not overlapping or enclosed within one another. The shapes in the left group are mostly outlined or not filled in.
+
+The right group has images where the shapes overlap, with one shape often inside or intersecting with another. The shapes in the right group appear to be mostly solid or filled in rather than just outlines.
+
+So the key differences seem to be:
+1. Left group shapes are separate, right group shapes are overlapping or enclosed
+2. Left group shapes are mostly outlines, right group shapes are mostly solid fill
+</thinking>
+
+<answer>
+The main differences between the left and right groups are:
+1. The shapes in the left group images are separate and do not overlap or intersect, while the shapes in the right group images are overlapping or have one shape enclosed inside another.
+2. The shapes in the left group are primarily outlines or not filled in, whereas the shapes in the right group are generally solid or filled in rather than hollow outlines.
+</answer>

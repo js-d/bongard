@@ -1,0 +1,31 @@
+Left group:
+1. A curved line forming an incomplete loop, with the two ends pointing upward
+2. A curved line forming an incomplete loop that crosses over itself once
+3. A curved line forming an incomplete teardrop shape
+4. A curved line forming an almost complete loop, with a small opening at the top
+5. A curved line forming a full loop
+6. A curved line forming a full loop
+
+Right group:
+1. Two separate loops, one larger than the other, not connected
+2. A long curved line with a small loop at one end
+3. Two separate curved lines, not connected, resembling two halves of a loop
+4. Two loops, one inside the other, connected at one point
+5. Three loops, two inside a larger one, with the two inner loops connected
+6. Two loops of different sizes connected by a curved line
+
+<thinking>
+The left group images all contain a single curved line forming either an incomplete or complete loop. The right group images contain multiple curved lines or loops that interact in various ways - separate, nested, or connected.
+
+The key difference seems to be that the left group has just one continuous line or loop, while the right group always has more than one line or loop that relate to each other in different configurations.
+
+So in summary, left group: single line/loop, right group: multiple related lines/loops.
+</thinking>
+
+<answer>
+The images in the left group each contain a single curved line that forms either an incomplete or complete loop.
+
+The images in the right group each contain multiple curved lines or loops. These multiple lines or loops are arranged in various configurations - they may be separate from each other, nested inside one another, or connected at one or more points.
+
+The key difference between the two groups is that the left group always has just one continuous line forming a single loop (complete or incomplete), while the right group always has two or more lines or loops that interact with each other in different ways.
+</answer>

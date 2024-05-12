@@ -1,0 +1,33 @@
+Left group:
+1. A curved line with a circle at one end.
+2. A curved line with a circle at one end and a small circle branching off the middle.
+3. A curved line with a circle at one end and a small curved line branching off near the circle end.
+4. Two curved lines joined at one end forming a V-like shape.
+5. A curved line with a small circle branching off one end.
+6. Two curved lines, one with a circle at the end, joined in the middle forming an M-like shape.
+
+Right group:
+1. A curved line with a circle at one end.
+2. A curved line with a circle in the middle.
+3. A curved line with a circle branching off one end.
+4. A curved line with a small circle at one end.
+5. A curved line with a small circle branching off the middle and another small circle at the far end.
+6. A curved line with a small circle branching off one end.
+
+<thinking>
+The key difference between the left and right groups seems to be the relative positions of the circles and lines. In the left group, when a circle and line meet, the circle is always at the end of the line. But in the right group, the circle can be in the middle of the line or branching off it, not just at the end.
+
+To verify this, I'll go through each right image:
+1. Circle at end of line, matches left group pattern.
+2. Circle in middle of line, differs from left group.
+3. Circle branches off line, differs from left group.
+4. Circle at end of line, matches left group.
+5. One circle branches off middle of line, another circle at far end. Differs from left group.
+6. Circle branches off line, differs from left group.
+
+Since 4 of the 6 right images differ from the left group pattern, the key difference is:
+</thinking>
+
+<answer>
+In the left group, when a circle and line meet, the circle is always at the end of the line. In the right group, the circle can be at the end of the line, but can also be in the middle of the line or branching off from it.
+</answer>

@@ -1,0 +1,26 @@
+Left group:
+1. A black pixelated triangle pointing to the right on a white background.
+2. A black pixelated circle on a white background.
+3. A black pixelated square on a white background, oriented like a diamond.
+4. A black pixelated circle on a white background.
+5. A black pixelated plus sign or cross on a white background.
+6. A black pixelated rectangle on a white background, oriented horizontally.
+
+Right group:
+1. A black pixelated square on a white background, with a small black pixelated circle to its left.
+2. A black pixelated square on a white background, with a small black pixelated circle to its right.
+3. A black pixelated triangle pointing down on a white background, with a small black pixelated circle above it.
+4. A black pixelated circle on a white background, with a smaller black pixelated circle to its upper left and a black pixelated triangle pointing down to its lower right.
+5. A black pixelated rectangle on a white background, oriented vertically, with a small black pixelated triangle pointing to the right.
+6. A black pixelated circle on a white background, with a smaller black pixelated circle below it.
+
+<thinking>
+- The left group contains single black pixelated shapes on white backgrounds
+- The right group contains black pixelated shapes on white backgrounds, but each image also includes an additional smaller shape
+- The additional smaller shapes in the right group are circles or triangles
+- The placement of the additional smaller shapes in the right group varies - sometimes to the left, right, above or below the main shape
+</thinking>
+
+<answer>
+The key difference between the images in the left group and right group is that the images in the left group each contain a single black pixelated shape on a white background, while the images in the right group each contain a main black pixelated shape along with an additional smaller black pixelated shape (either a circle or triangle). The placement of the additional shapes relative to the main shapes varies across the images in the right group.
+</answer>

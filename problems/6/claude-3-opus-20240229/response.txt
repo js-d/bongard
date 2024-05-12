@@ -1,25 +1,27 @@
 Left group:
-1. A hollow equilateral triangle pointing upwards.
-2. A solid right triangle pointing downwards and to the right.
-3. Two line segments, one vertical and one diagonal, connected at the top to form a > shape pointing right.
-4. A hollow equilateral triangle pointing downwards.
-5. Two line segments, one horizontal on top and one diagonal, connected at the left endpoint to form an angle shape pointing down and right.
-6. A solid downwards pointing equilateral triangle with a detached small square above the top vertex.
+1. A black equilateral triangle on a white background, with the point facing upwards.
+2. A black right triangle on a white background, with the right angle in the bottom right and the hypotenuse angled from bottom left to top right.
+3. Two black line segments on a white background, meeting at a 45 degree angle with the point at the top, resembling a thin upward facing arrow shape.
+4. A small solid black equilateral triangle on a white background with the point facing upwards.
+5. Two black line segments on a white background in the shape of a tall isosceles triangle, with the point at the top and equal angles at the base.
+6. A black equilateral triangle on a white background, with the point facing downwards.
 
 Right group:
-1. A solid square with a smaller solid square attached at the top right corner.
-2. Three line segments, two forming a > shape and the third vertical intersecting the midpoint of the horizontal segment.
-3. A hollow square tilted 45 degrees to form a diamond shape.
-4. A hollow square with the top side detached and shifted upwards.
-5. Four line segments arranged into an arrow shape, with the point facing up and to the right.
-6. A hollow square tilted 45 degrees with a small solid square in the top corner.
+1. A small solid black square in the top right corner of a white rectangular background.
+2. A black outline of a right triangle on a white background, with the right angle at the top left and the hypotenuse angled from top left to bottom right.
+3. A black outline of a rectangle on a white background.
+4. A black outline of a trapezoid on a white background, with the shorter parallel side at the top.
+5. A small solid black diamond shape on a white background, resembling a rhombus or tilted square.
+6. A black outline of a rectangle on a white background, wider than it is tall.
 
 <thinking>
-The left group contains triangular shapes or shapes composed of two line segments.
-The right group contains square or rectangular shapes, sometimes tilted or with an extra square attached.
-The left group shapes are more angular and pointed, while the right group shapes are more boxy and square-like.
+The left group images all contain triangular shapes or shapes composed of angled line segments. The right group images contain more rectangular shapes or shapes with parallel sides and right angles.
+
+The left group shapes all have at least one pointed end or corner, while the right group shapes have no sharp points and more rounded or 90 degree corners.
+
+The left group has a mix of outlined and solid black shapes, while the right group shapes are all outlines except for one small solid shape.
 </thinking>
 
 <answer>
-The main difference between the left and right groups is that the left group contains triangular and angular shapes, while the right group contains square, rectangular, and diamond shapes. The left group features pointed shapes and acute angles, whereas the right group has more 90-degree angles and box-like appearances, even when the squares are tilted or have an extra square attached.
+The main difference between the left and right image groups is that the left group contains triangular and pointed shapes, while the right group contains rectangular and parallel-sided shapes. The left group shapes all have at least one sharp, angled point, while the right group shapes are composed of right angles and parallel lines with no sharp points. Additionally, the left group has a mix of outlined and filled-in black shapes, while the right group is almost entirely black outlines with only one small solid black shape.
 </answer>

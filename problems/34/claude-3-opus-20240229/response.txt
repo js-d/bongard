@@ -1,0 +1,25 @@
+Left group:
+1. A black square with a white circular hole in the center.
+2. A black square shape with a smaller white square cut out from the upper right corner.
+3. A black circular shape with a white circular hole cut out from the center.
+4. A black triangular shape pointing upwards, with the top corner cut off leaving a small white triangular notch.
+5. A black triangular shape pointing downwards.
+6. A black circular shape with a triangular notch cut out from the top.
+
+Right group:
+1. A black circular shape with a small white triangular notch cut out from the top.
+2. A black triangular shape pointing upwards, with a small white square cut out from the left side near the top.
+3. A black square shape with a small white square cut out from the bottom right corner.
+4. A black shield-like shape with a small white square cut out from the center.
+5. A black shield-like shape with a small white triangular notch cut out from the top center.
+6. A black triangular shape pointing downwards, with a small white square cut out from the top center.
+
+<thinking>
+The left group images all have the white shape cut out from the interior of the black shape, fully enclosed by the black portion. The white parts do not touch or intersect the outer border of the black shapes.
+
+In contrast, the right group images have the white shape cut out from the border or edge of the black shape, with the white part intersecting the perimeter. The white cutouts touch the outside in each of the right group images.
+</thinking>
+
+<answer>
+The key difference between the left and right groups is the placement of the white cutout shapes. In the left group, the white shapes are cut out from the interior of the black shapes, fully contained within the black borders. In the right group, the white shapes intersect and touch the outer edges of the black shapes.
+</answer>

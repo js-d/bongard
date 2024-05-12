@@ -1,0 +1,31 @@
+Left group:
+1. A triangle, a circle, and two octagons arranged roughly in a square pattern.
+2. A circle surrounded by one triangle and five octagons roughly evenly spaced around it.
+3. A triangle, a circle, and five octagons arranged with the triangle at the top, circle in the center, and octagons surrounding them.
+4. A circle, triangle, and four octagons, with the triangle and circle at the top and octagons below.
+5. A triangle, circle, and four octagons arranged in a roughly circular pattern with the triangle and circle adjacent.
+6. A circle surrounded by a triangle and four octagons spaced around it.
+
+Right group:
+1. Four circles, a triangle, and an octagon arranged roughly in an inverted triangle.
+2. Seven circles and an octagon clustered together.
+3. Eight circles and an octagon arranged in a 3x3 grid pattern with the octagon in the center.
+4. A triangle surrounded by five circles and an octagon in a roughly triangular arrangement.
+5. Three triangles and six circles arranged in rows with circles on the top and bottom.
+6. A triangle, five circles and an octagon arranged in a roughly circular pattern with the triangle and octagon adjacent.
+
+<thinking>
+The left group images contain fewer circles (0-1) and more octagons (2-5), while the right group has more circles (3-8) and fewer octagons (1).
+
+The shapes in the left group tend to be spaced out more evenly, often in circular, square or triangular layouts. The right group shapes are more tightly clustered together.
+
+The left group usually has the triangle and circle prominently placed, often adjacent to each other, while in the right group the triangle and octagon tend to be featured shapes placed next to each other when present.
+</thinking>
+
+<answer>
+The key difference between the left and right image groups is the number of circles and octagons. The left images contain mainly octagons (2-5) and few circles (0-1), while the right images have primarily circles (3-8) and only one octagon each.
+
+Additionally, the shapes in the left group are more evenly distributed, often arranged in circular, square or triangular patterns. The right group shapes are more densely clustered.
+
+Finally, the left group emphasizes the placement of the triangle and circle, frequently positioned together, while the right group instead features the triangle and octagon adjacently when both are present.
+</answer>

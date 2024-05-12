@@ -1,0 +1,23 @@
+Left group:
+1. A curved line resembling a backwards "S" shape.
+2. An irregular curved line with a loop at the top right.
+3. A closed circular shape made of a single curved line.
+4. A curved line forming an elongated "S" shape.
+5. Six short vertical lines arranged in a horizontal row.
+6. An irregular angular shape resembling a backwards "R" or "K".
+
+Right group:
+1. A single short horizontal line segment.
+2. Three angled line segments forming a zigzag or "W" shape.
+3. A circle, triangle, and short line, not connected, arranged vertically.
+4. A single small equilateral triangle made of straight lines.
+5. A small "X" shape formed by two intersecting straight lines.
+6. A small, simple stick figure resembling a person.
+
+<thinking>
+The left group images all consist of a single connected line or curve, forming either an open shape or a closed loop. The right group images contain disconnected lines and geometric shapes like triangles and circles, or combinations of these elements. Some of the right images resemble symbols or stick figures.
+</thinking>
+
+<answer>
+The key difference between the left and right groups is that the left group images are each made of a single continuous line or curve, while the right group images contain multiple disconnected straight lines, shapes, and other elements that form symbols or figures.
+</answer>

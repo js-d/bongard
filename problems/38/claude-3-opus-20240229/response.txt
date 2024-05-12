@@ -1,0 +1,27 @@
+Left group:
+1. A triangle with a small circle to its right
+2. A small circle with a triangle to its right
+3. A triangle with a small circle to its right
+4. A triangle with a circle inside it
+5. A triangle with a circle to its right
+6. A small circle with a triangle to its right
+
+Right group:
+1. A circle with a small triangle inside it
+2. A circle with a small triangle inside it
+3. A circle with a small triangle to its right
+4. A circle with two small triangles below it
+5. A small triangle above a circle
+6. A circle with a small triangle above and to the right of it
+
+<thinking>
+- In the left group, the triangle is always larger than or equal in size to the circle. In the right group, the circle is always larger than the triangle(s).
+- In the left group, when the shapes are separate, the triangle is always to the left of the circle. In the right group, when the shapes are separate, the triangle is to the right of, above, or both relative to the circle.
+- In the left group, when one shape is inside the other, the circle is inside the triangle. In the right group, when one shape is inside the other, the triangle is inside the circle.
+</thinking>
+
+<answer>
+The main difference between the left and right groups is the relative size and positioning of the triangle and circle shapes:
+In the left group, the triangle is always larger or equal in size to the circle, and positioned to the left of or surrounding the circle.
+In the right group, the circle is always larger than the triangle(s), and the triangle(s) are positioned inside, to the right of, above, or in multiple positions relative to the circle.
+</answer>

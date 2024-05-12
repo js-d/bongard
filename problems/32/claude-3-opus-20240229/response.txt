@@ -1,0 +1,23 @@
+Left group:
+1. A black outline of a crescent or incomplete circular shape made up of connected pixel-like squares.
+2. A black outline of a right-pointing arrowhead shape made up of connected pixel-like squares.
+3. A black outline of a four-pointed star shape made up of connected pixel-like squares, resembling an X or cross symbol.
+4. A black outline of a right-pointing triangle made up of connected pixel-like squares.
+5. A black outline of a complete circular or ring shape made up of connected pixel-like squares.
+6. A black outline of an upward-pointing arrowhead shape made up of connected pixel-like squares.
+
+Right group:
+1. A black outline of a shape resembling a letter M, made up of connected pixel-like squares.
+2. A black outline of a complete circular shape made up of connected pixel-like squares.
+3. A black outline of a shape resembling a backwards letter C, made up of connected pixel-like squares.
+4. A black outline of a kidney bean shaped curved shape made up of connected pixel-like squares.
+5. A black outline of an equilateral triangle shape made up of connected pixel-like squares.
+6. A black outline of a four-leafed clover or flower shape made up of four connected circular shapes, made up of pixel-like squares.
+
+<thinking>
+The key difference between the left and right groups seems to be in the connectivity of the pixel-like squares that make up each shape. In the left group, all the squares are connected to form a single continuous outline. In the right group, there are gaps or disconnects in the pixel squares, making the shapes appear more segmented or composed of multiple parts.
+</thinking>
+
+<answer>
+The main difference between the images in the left group versus the right group is that the shapes in the left group are made up of fully connected pixel-like squares forming one continuous outline, while the shapes in the right group have disconnected or separated parts due to gaps between some of the pixel squares.
+</answer>

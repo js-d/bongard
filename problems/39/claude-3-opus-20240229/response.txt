@@ -1,0 +1,23 @@
+Left group:
+1. Two parallel diagonal lines going down from left to right.
+2. Three vertical lines of differing lengths.
+3. Two sets of parallel diagonal lines going down from left to right, with a small vertical gap between the sets.
+4. Three short horizontal lines stacked vertically with small gaps between them.
+5. Four diagonal lines of equal length arranged in a zig-zag pattern.
+6. Two diagonal lines going down from left to right, parallel but slightly offset vertically.
+
+Right group:
+1. Vertical line on the left, diagonal line going down from left to right, horizontal line at the bottom.
+2. Horizontal line at the top, two vertical lines of slightly different lengths.
+3. Two horizontal lines at the top and bottom, vertical line on the right.
+4. Horizontal lines at the top and bottom, two vertical lines of differing lengths in between.
+5. Diagonal line going up from left to right, horizontal line, vertical line on the right.
+6. Diagonal line going down from left to right, horizontal line, vertical line on the right.
+
+<thinking>
+The key difference seems to be that the images in the left group contain only lines that are parallel, either vertically, horizontally, or diagonally. The right group images appear to always contain some lines that are perpendicular to each other, forming what look like corners or edges.
+</thinking>
+
+<answer>
+The images in the left group contain only parallel lines, while the images in the right group always contain some perpendicular lines that form corners or edges.
+</answer>

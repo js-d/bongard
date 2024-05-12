@@ -1,0 +1,29 @@
+Left group:
+1. A triangle above a square and a circle to the right of the square.
+2. A square with a triangle to the right and a circle below the triangle.
+3. A triangle above a square and a circle to the right of the square.
+4. A triangle above a circle and a square to the right of the circle.
+5. A triangle above a square with a circle to the right of the square.
+6. A triangle above a square with a circle to the right of the square.
+
+Right group:
+1. A circle above a triangle and a square to the right of the triangle.
+2. A circle above a triangle with a square to the right of the triangle.
+3. A square to the left of a circle, and a triangle below the circle.
+4. A square to the left of a circle, and a triangle to the right of the circle.
+5. A circle to the left of a square, and a triangle below the square.
+6. A circle to the left of a square, and a triangle to the right of the square.
+
+<thinking>
+In the left group, the triangle is always at the top, with the square and circle below it in various positions relative to each other.
+
+In the right group, the circle is always present, but its position varies - sometimes above the other shapes, sometimes to the left. The triangle and square are always adjacent to the circle, but their relative positions change.
+
+The key difference seems to be that in the left group, the triangle has a fixed position at the top, while in the right group the circle is always present but its position changes, with the triangle and square's positions changing relative to the circle.
+</thinking>
+
+<answer>
+In the left group images, the triangle is always positioned at the top, with the square and circle below it in varying positions relative to each other.
+
+In the right group images, the circle is always present, but its position varies, sometimes being above the other shapes and sometimes being to their left. The triangle and square are always adjacent to the circle but their positions relative to the circle and each other change between images.
+</answer>

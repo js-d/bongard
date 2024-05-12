@@ -1,0 +1,29 @@
+Left group:
+1. A single small circle shape, with an open triangle shape below it pointing downwards.
+2. Three small circle shapes arranged in a triangular pattern.
+3. Three shapes - two circles and an open triangle. The triangle is on the right side pointing right, with the two circles to its left.
+4. Two shapes - a circle on the left, and an open circle on the right.
+5. Two shapes forming an open circle with a small circle detached from it at the top left.
+6. Four shapes - two circles and two open triangles. The circles are on the left and right, with the triangles between them pointing in opposite directions.
+
+Right group:
+1. Two shapes - a circle and an open triangle. The circle is detached at the top, with the triangle below pointing upwards and nearly touching the circle.
+2. Three shapes - two circles and an open triangle between them. The triangle points to the right circle.
+3. A single circle shape.
+4. Three shapes arranged in a triangular formation - two triangles pointing away from each other at the top, with a circle below.
+5. Three shapes - a circle and two open triangles. The circle is at the top with the triangles below it pointing away from each other.
+6. Three circle shapes arranged in a triangular pattern.
+
+<thinking>
+The key differences I notice between the left and right groups are:
+1. In the left group, when a triangle and circle appear together, the triangle points away from the circle. In the right group, the triangle points towards the circle.
+2. The left group contains more downward-pointing triangles overall, while the right group has more upward-pointing triangles.
+3. The left group has more instances of detached or separated shapes, while shapes in the right group tend to be touching or connected.
+4. There are a couple mirrored or rotated configurations between the two groups.
+</thinking>
+
+<answer>
+The main difference between the left and right groups is:
+In the left group images, when a triangle and circle appear together, the triangle points away from the circle.
+In the right group images, when a triangle and circle appear together, the triangle points towards the circle.
+</answer>

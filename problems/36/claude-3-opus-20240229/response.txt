@@ -1,0 +1,26 @@
+Left group:
+1. A triangle above a circle, both shapes outlined in black on a white background.
+2. An outlined triangle above a solid black circle on a white background.
+3. An outlined triangle above two solid black circles vertically aligned on a white background.
+4. A black outlined triangle above a solid black circle on a white background.
+5. A solid black triangle above a black outlined circle on a white background.
+6. An outlined triangle above a solid black circle on a white background, aligned vertically.
+
+Right group:
+1. A solid black circle above an outlined triangle on a white background, aligned vertically.
+2. A solid black circle above two outlined triangles on a white background.
+3. A solid black circle above an outlined inverted triangle on a white background.
+4. A solid black circle above two outlined triangles on a white background, one upright and one inverted.
+5. A solid black circle above an outlined triangle on a white background.
+6. A solid black circle above an outlined inverted triangle on a white background.
+
+<thinking>
+The key differences I notice between the left and right groups are:
+- In the left group, the triangle is always above the circle(s). In the right group, the circle is always above the triangle(s).
+- In the left group, there is only ever one triangle. In the right group, some images contain two triangles.
+- In the left group, when there are two shapes, they are always vertically aligned. In the right group, when there are three shapes, the bottom two triangles are sometimes inverted relative to each other.
+</thinking>
+
+<answer>
+The main difference between the left and right groups is the relative positioning of the shapes. In the left group, the triangle is always above the circle(s), while in the right group, the circle is always above the triangle(s). Additionally, the left group only ever contains one triangle, while the right group sometimes has two triangles, and they are sometimes inverted relative to each other when there are three shapes total.
+</answer>

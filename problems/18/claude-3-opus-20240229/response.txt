@@ -1,0 +1,27 @@
+Left group:
+1. A bowtie-shaped figure made up of two triangles connected at their points.
+2. An hourglass-like shape formed by two triangles connected at a single point, one pointing up and the other down.
+3. An arrow-like shape pointing to the right, made of a small triangle attached to a larger triangle.
+4. A curved shape resembling a squashed infinity symbol or a sideways figure-8, made of two oval-like shapes connected in the middle.
+5. A curved shape like a backwards question mark without the dot, or a curved tadpole shape.
+6. A curved shape resembling a kidney bean or a comma.
+
+Right group:
+1. A rectangular shape made of two long thin rectangles.
+2. An L-shaped figure made of two perpendicular rectangles, one vertical and one horizontal.
+3. An oval or egg-like shape made of a single curved line.
+4. A curved crescent moon-like shape, thicker on one end and tapering on the other.
+5. A curved shape resembling a backwards C or a sideways parenthesis "(" symbol.
+6. A spiral or snail shell-like shape curving in a circular clockwise direction.
+
+<thinking>
+The left group contains shapes made up of straight lines and angles, forming triangular or arrow-like shapes. Even the curved shapes are made of two distinct parts.
+
+The right group contains shapes dominated by curves and rounded edges. They form oval, circular, or smoothly curved figures without sharp angles.
+
+The key difference seems to be that the left group is characterized by shapes with straight lines and angles, while the right group features smooth, curved shapes without angles.
+</thinking>
+
+<answer>
+The main difference between the images in the left group and right group is that the left group contains shapes made up of straight lines and angles, forming triangular, arrow-like, or connected shapes, while the right group features smooth, continuously curved shapes without sharp angles, resembling ovals, crescents, spirals, and rounded figures.
+</answer>

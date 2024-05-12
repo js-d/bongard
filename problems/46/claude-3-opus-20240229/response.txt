@@ -1,0 +1,31 @@
+Left group:
+1. A black silhouette of a triangle with a small triangular cutout at the top.
+2. Two incomplete black circular shapes, like a half circle on the left and a quarter circle on the right, together forming a stylized pacman-like shape.
+3. A black circle with a small triangular cutout at the top.
+4. A black circular shape with a smaller white circular cutout inside it, near the top.
+5. A black equilateral triangle with a white circular cutout in the center.
+6. An incomplete black circular shape, like a pacman symbol.
+
+Right group:
+1. A black circular shape with a small triangular protrusion pointing to the right.
+2. Three small black triangular shapes arranged in a larger triangular formation, with the top triangle inverted.
+3. A black right-angled triangular shape with a small circular cutout in the top corner.
+4. Two black circular shapes of different sizes overlapping to form a stylized Venn diagram.
+5. A black circular shape with a smaller circular cutout, giving the appearance of a circular arch or hook shape.
+6. A black keyhole-like shape, with a circular part on the left and a triangular part extending to the right.
+
+<thinking>
+The left group images all contain shapes with cutouts or missing parts within a single larger shape. The cutouts are located inside the main shape.
+
+In contrast, the right group images feature shapes with added elements or protrusions extending outward from the main shape. The additional parts are external to the primary shape.
+
+The key difference seems to be that the left group has internal cutouts or missing parts, while the right group has external additions or protrusions.
+</thinking>
+
+<answer>
+The main difference between the images in the left group and the right group is:
+
+The left group contains shapes with internal cutouts or missing parts within a single larger shape. The cutouts or missing sections are located inside the main shape.
+
+The right group features shapes with external additions, protrusions, or overlapping elements that extend outward from the primary shape. These additional parts are located outside the main shape.
+</answer>

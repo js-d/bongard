@@ -1,27 +1,25 @@
 <thinking>
-Analyzing the images in the 'left' group:
+Let me carefully analyze and describe each of the 12 images in detail.
 
 Left group:
-1. The image consists of a curved line and a triangle.
-2. The image consists of a curved line and a triangle.
-3. The image consists of a curved line and a triangle.
-4. The image consists of a curved line and a triangle.
-5. The image consists of a curved line and a triangle.
-6. The image consists of a curved line and a triangle.
+1. The image contains a curved, wavy shape with a triangular shape below it.
+2. The image contains a curved, wavy shape and a triangular shape.
+3. The image contains a curved, wavy shape and a triangular shape.
+4. The image contains a curved, wavy shape and a triangular shape.
+5. The image contains a curved, wavy shape and a triangular shape.
+6. The image contains a curved, wavy shape and a triangular shape.
 
-Analyzing the images in the 'right' group:
 Right group:
-1. The image consists of a curved line and an inverted triangle.
-2. The image consists of a curved line and a triangle.
-3. The image consists of a curved line and an inverted triangle.
-4. The image consists of a curved line and an inverted triangle.
-5. The image consists of a curved line and an inverted triangle.
-6. The image consists of a curved line and a triangle.
+1. The image contains a curved, wavy shape and a triangular shape.
+2. The image contains a curved, wavy shape and a triangular shape.
+3. The image contains a curved, wavy shape and a triangular shape.
+4. The image contains a curved, wavy shape and a triangular shape.
+5. The image contains a curved, wavy shape and a triangular shape.
+6. The image contains a curved, wavy shape and a triangular shape.
 
-Comparing the two groups:
-The main difference between the images in the 'left' group and the 'right' group is the orientation of the triangle. In the 'left' group, the triangle is upright, while in the 'right' group, the triangle is inverted in some of the images.
+The key difference between the images in the left group and the right group is that the triangular shape in the left group is always positioned below the curved, wavy shape, while the triangular shape in the right group is always positioned next to the curved, wavy shape.
 </thinking>
 
 <answer>
-The difference between the images in the 'left' group and the 'right' group is the orientation of the triangle. In the 'left' group, the triangle is upright, while in the 'right' group, the triangle is inverted in some of the images.
+The key difference between the images in the left group and the right group is the positioning of the triangular shape relative to the curved, wavy shape. In the left group, the triangular shape is always positioned below the curved, wavy shape, while in the right group, the triangular shape is always positioned next to the curved, wavy shape.
 </answer>

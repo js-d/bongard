@@ -57,7 +57,7 @@ def get_response(problem, model):
 if __name__ == "__main__":
     # model = "claude-3-opus-20240229"
     model = "claude-3-haiku-20240307"
-    for problem in range(64, 101):
+    for problem in range(75, 101):
         print(f"Processing problem number: {problem}")
         message = get_response(problem, model)
         response_content = message.content[0].text

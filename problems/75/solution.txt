@@ -1,0 +1,1 @@
+Triangle located at the concave side of an arc vs. triangle located at the convex side of an arc.

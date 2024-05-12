@@ -1,0 +1,1 @@
+The right branch begins at a higher point than the left branch vs. the right branch begins at a lower point than the left branch.

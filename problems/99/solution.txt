@@ -1,0 +1,1 @@
+Outlines made by triangles and circles intersect vs. outlines made by triangles and circles do not intersect.

@@ -1,0 +1,25 @@
+<thinking>
+To analyze the 12 images and find the difference between the left and right groups, I will describe each image in detail and then compare the two groups.
+
+Left group:
+1. The image shows three simple shapes - two circles on the top and a triangle in the middle. There is a small rectangular shape at the bottom.
+2. This image shows a square-like shape with a circular shape inside it. There are two triangular shapes at the top and bottom.
+3. The image shows a single tall, thin shape with two smaller triangular shapes at the top.
+4. This image has a shield-like shape with two triangular shapes at the top and a rectangular shape at the bottom.
+5. The image shows a diamond-shaped shape.
+6. This image has two circular shapes on the top and two square-like shapes at the bottom.
+
+Right group:
+1. The image shows the same three-shape arrangement as the first image in the left group, but the shapes are slightly different - the two circles are smaller and the triangle is more pointed.
+2. This image has the same square-like shape with a circular shape inside, but the two triangular shapes at the top and bottom are larger and more pointed.
+3. The image shows a single tall, thin shape with two smaller triangular shapes at the top, but the shape is more jagged and asymmetrical compared to the left group image.
+4. This image has a similar shield-like shape, but the two triangular shapes at the top are smaller and the rectangular shape at the bottom is larger.
+5. The image shows a diamond-shaped shape, but it is more elongated and pointed compared to the left group image.
+6. This image has the same two circular shapes on the top and two square-like shapes at the bottom, but the shapes are more angular and asymmetrical.
+
+Now, to find the difference between the two groups:
+</thinking>
+
+<answer>
+The key difference between the images in the left group and the right group is that the images in the right group have more angular, asymmetrical, and pointed shapes compared to the more simple, symmetrical, and rounded shapes in the left group. While the basic shapes (circles, triangles, rectangles) are the same, the specific shapes and their arrangements are noticeably different between the two groups.
+</answer>

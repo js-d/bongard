@@ -1,0 +1,1 @@
+A circle is inside of a figure made by crosses vs. a circle is outside of figures made by crosses.

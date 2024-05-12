@@ -1,0 +1,1 @@
+The long axes of the ellipse and rectangle are perpendicular vs. the long axes of the ellipse and rectangle are parallel.

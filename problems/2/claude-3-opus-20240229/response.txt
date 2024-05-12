@@ -1,0 +1,35 @@
+Left group:
+1. A black outline of a triangle with no fill.
+2. A filled in black irregular shape that looks like a piece broken off of something.
+3. A black outline of an irregular angular shape, like a piece broken off of something, with no fill.
+4. A black outline of a circle with a piece missing, like a circular cookie with a bite taken out of it.
+5. A black angular shape outline, resembling an arrow pointing left, with no fill.
+6. A filled in black hexagonal shape.
+
+Right group:
+1. A tiny black square.
+2. A black crown-like shape.
+3. A small filled in black triangle pointing up.
+4. A small filled in black circle.
+5. A small question mark shape.
+6. A black X shape.
+
+<thinking>
+The left group images are all:
+- Relatively large
+- Mostly outlines or silhouettes of shapes
+- The shapes are incomplete, like pieces of a whole or with parts missing
+- Irregular and angular shapes
+
+The right group images are:
+- Very small, like punctuation marks or symbols
+- Fully filled in black shapes, no outlines
+- Complete, whole shapes 
+- Simple geometric shapes or recognizable symbols
+
+The key difference seems to be that the left images are incomplete pieces or outlines of larger irregular shapes, while the right images are tiny, complete, filled-in simple shapes or symbols.
+</thinking>
+
+<answer>
+The images in the left group are all outlines or silhouettes of incomplete, irregular angular shapes that look like pieces of a larger whole. The images in the right group are all very small, fully filled-in, complete shapes that are either simple geometric forms or recognizable symbols and punctuation marks.
+</answer>

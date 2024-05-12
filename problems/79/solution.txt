@@ -1,0 +1,1 @@
+A dark circle is closer to the outline circle than to the triangle vs. a dark circle is closer to the triangle than to the outline circle.

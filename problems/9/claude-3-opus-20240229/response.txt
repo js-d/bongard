@@ -1,0 +1,24 @@
+Left group:
+1. A hollow square outline with no fill.
+2. A hollow, irregular pentagon outline with no fill.
+3. A hollow, irregular blob-like shape outline with no fill.
+4. A hollow circle outline with no fill.
+5. An outline of the African continent with no fill.
+6. A hollow triangle outline with no fill.
+
+Right group:
+1. A jagged, zig-zag line forming a closed shape with a filled interior.
+2. A jagged, saw-tooth line forming a closed rectangular shape with a filled interior.
+3. A spiky, starburst-like shape formed by jagged lines, with a filled circular interior.
+4. A very jagged, almost fuzzy, closed circular shape with a filled interior.
+5. A closed shape resembling a speech bubble or cloud, formed by a jagged line with a filled interior.
+6. A closed shape resembling a map of the UK, formed by a jagged line with a filled interior.
+
+<thinking>
+The left group contains hollow, unfilled outlines of various shapes. The right group contains closed shapes with jagged, zig-zag edges that have filled interiors. 
+The key difference seems to be that shapes in the left group have smooth edges and are unfilled, while shapes in the right group have jagged edges and are filled in.
+</thinking>
+
+<answer>
+The shapes in the left group are all hollow outlines with smooth edges and no fill. In contrast, the shapes in the right group are all closed shapes with jagged, zig-zag edges and filled interiors.
+</answer>

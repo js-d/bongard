@@ -1,0 +1,25 @@
+Left group:
+1. An equilateral triangle with all sides of equal length.
+2. An outline of the state of California, a distinctive jagged shape.
+3. An upward-pointing arrow with a straight shaft and two angular fins extending from the top.
+4. Four connected triangles arranged in a zig-zag pattern resembling a line of shark teeth.
+5. A downward-pointing arrow with a straight shaft.
+6. A downward-pointing triangle with a small triangle cut out from the center.
+
+Right group:
+1. A square with all four sides equal in length and four 90-degree angles.
+2. A square outline with a zig-zag line running through it horizontally, creating a jagged division of the square shape.
+3. An outline resembling a digital cursor or pointer, a quadrilateral with one corner extended.
+4. An irregular, almost amoeba-like shape composed of connected round-cornered squares.
+5. A rhombus or diamond shape tilted to stand on one of its corners.
+6. A square with a smaller square cut out from its center.
+
+<thinking>
+The left group contains triangular shapes and angular lines, arrows, and outlines. The right group consists of quadrilateral shapes - squares, rectangles, rhombuses, and irregular four-sided polygons. The key difference seems to be the number of sides or corners of the primary shape in each image.
+Left group: 3 sides/corners
+Right group: 4 sides/corners
+</thinking>
+
+<answer>
+The main difference between the images in the left group versus the right group is the number of sides or corners in the primary shape of each image. All images in the left group contain triangular shapes or shapes with three sides or three corners. In contrast, all images in the right group feature quadrilateral shapes or shapes with four sides or four corners, such as squares, rectangles, rhombuses, and irregular four-sided polygons.
+</answer>

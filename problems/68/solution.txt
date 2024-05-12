@@ -1,0 +1,1 @@
+The end of the right branch is higher than that of the left branch vs. the end of the right branch is lower than that of the left branch.

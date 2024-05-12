@@ -1,0 +1,1 @@
+Points inside the figure outline are grouped more densely than outside the contour vs. points outside the figure contour are grouped more densely than inside the contour.

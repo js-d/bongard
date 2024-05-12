@@ -1,0 +1,29 @@
+<thinking>
+To describe the images in the left group:
+
+Left group:
+1. This image contains a simple black square shape.
+2. This image contains a simple black circle shape.
+3. This image contains a simple black triangle shape.
+4. This image contains a simple black square shape and a simple black triangle shape.
+5. This image contains two simple black circle shapes.
+6. This image contains a simple black square shape and a simple black circle shape.
+
+To describe the images in the right group:
+
+Right group:
+1. This image contains a simple black triangle shape.
+2. This image contains two simple black square shapes of different sizes.
+3. This image contains a simple black triangle shape and a simple black square shape.
+4. This image contains a variety of simple black shapes including triangles and squares.
+5. This image contains a simple black triangle shape and a simple black square shape.
+6. This image contains a variety of simple black shapes including triangles and squares.
+
+To explain the difference between the left and right groups:
+
+The key difference is that the images in the left group all contain a single simple shape, either a square, circle, or triangle. In contrast, the images in the right group contain either multiple simple shapes or more complex arrangements of shapes.
+</thinking>
+
+<answer>
+The key difference between the left and right groups is that the images in the left group all contain a single simple shape, either a square, circle, or triangle, while the images in the right group contain either multiple simple shapes or more complex arrangements of shapes.
+</answer>

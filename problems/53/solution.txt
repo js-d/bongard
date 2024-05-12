@@ -1,0 +1,1 @@
+Inside figure has fewer angles than outside figure vs. inside figure has more angles than outside figure.

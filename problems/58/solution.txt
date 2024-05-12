@@ -1,0 +1,1 @@
+Solid dark quadrangles are identical vs. solid dark quadrangles are different.

@@ -1,0 +1,1 @@
+Triangle on top of the circle vs. circle on top of the triangle.

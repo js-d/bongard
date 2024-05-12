@@ -1,0 +1,25 @@
+Left group:
+1. A hollow equilateral triangle pointing upwards.
+2. A solid right triangle pointing downwards and to the right.
+3. Two line segments, one vertical and one diagonal, connected at the top to form a > shape pointing right.
+4. A hollow equilateral triangle pointing downwards.
+5. Two line segments, one horizontal on top and one diagonal, connected at the left endpoint to form an angle shape pointing down and right.
+6. A solid downwards pointing equilateral triangle with a detached small square above the top vertex.
+
+Right group:
+1. A solid square with a smaller solid square attached at the top right corner.
+2. Three line segments, two forming a > shape and the third vertical intersecting the midpoint of the horizontal segment.
+3. A hollow square tilted 45 degrees to form a diamond shape.
+4. A hollow square with the top side detached and shifted upwards.
+5. Four line segments arranged into an arrow shape, with the point facing up and to the right.
+6. A hollow square tilted 45 degrees with a small solid square in the top corner.
+
+<thinking>
+The left group contains triangular shapes or shapes composed of two line segments.
+The right group contains square or rectangular shapes, sometimes tilted or with an extra square attached.
+The left group shapes are more angular and pointed, while the right group shapes are more boxy and square-like.
+</thinking>
+
+<answer>
+The main difference between the left and right groups is that the left group contains triangular and angular shapes, while the right group contains square, rectangular, and diamond shapes. The left group features pointed shapes and acute angles, whereas the right group has more 90-degree angles and box-like appearances, even when the squares are tilted or have an extra square attached.
+</answer>

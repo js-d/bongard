@@ -1,0 +1,25 @@
+<thinking>
+Let me carefully analyze the 12 images and describe them in detail:
+
+Left group:
+1. This image shows a curved, jagged line that forms a rough, asymmetrical shape.
+2. This image shows a slightly curvier, smoother shape than the first image, with a more defined curve at the top.
+3. This image shows an angular, zig-zag shape with sharp corners and points.
+4. This image shows a triangular shape with a pointed top and a wide, curved base.
+5. This image shows a rectangular shape with a curved, wavy top edge.
+6. This image shows two connected oval shapes that form a symmetrical, "eye-like" pattern.
+
+Right group:
+1. This image shows a simplified, angular shape that resembles a house or building.
+2. This image shows a rounded, asymmetrical shape with a curved top and a more angular bottom.
+3. This image shows an irregular, jagged shape with sharp points and angles.
+4. This image shows a rectangular shape with a small, protruding section on the right side.
+5. This image shows a rounded, "eye-like" shape with a small notch at the bottom.
+6. This image shows a simple, circular shape.
+
+The main difference between the left group and the right group is that the left group images have more curved, organic shapes, while the right group images have more angular, geometric shapes. The left group images also seem to have more variation and complexity in their shapes, while the right group images are generally more simplified and less detailed.
+</thinking>
+
+<answer>
+The key difference between the left group and the right group is that the left group images have more curved, organic shapes, while the right group images have more angular, geometric shapes. The left group images also seem to have more variation and complexity in their shapes, while the right group images are generally more simplified and less detailed.
+</answer>

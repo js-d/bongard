@@ -1,0 +1,1 @@
+Extensions of segments cross at one point vs. extensions of segments do not cross at one point.

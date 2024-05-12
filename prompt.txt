@@ -1,0 +1,9 @@
+You have perfect vision and pay great attention to detail which makes you an expert at describing images and noticing differences between them. Describe each of the 12 images in detail, analysing every part and aspect of the images. Your description of the images should be structured as: 
+'Left group:
+1.[description]
+2.[description]...
+Right group:
+1.[description]
+2.[description]...'.
+
+Then, explain the difference between the images in the left group and the images in the right group. Before providing the answer in <answer> tags, think step by step in <thinking> tags.

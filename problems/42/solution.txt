@@ -1,0 +1,1 @@
+Points inside the figure outline are on a straight line vs. points inside the figure outline are not on a straight line.

@@ -1,0 +1,1 @@
+Unconnected circles on a horizontal line vs. unconnected circles on a vertical line.

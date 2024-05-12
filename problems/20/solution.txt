@@ -1,0 +1,1 @@
+Both dots touching same bulb vs. dots on opposite bulbs.

@@ -1,0 +1,25 @@
+<thinking>
+Okay, let's analyze the images in detail:
+
+Left group:
+1. This image shows a black triangle with parallel lines inside it.
+2. This image shows a black rectangular shape with parallel vertical lines inside it.
+3. This image shows a black oval shape with parallel vertical lines inside it.
+4. This image shows a black oval shape with parallel horizontal lines inside it.
+5. This image shows a black diamond shape with parallel lines inside it.
+6. This image shows a black rectangular shape with parallel horizontal lines inside it.
+
+Right group:
+1. This image shows a black rectangular shape with parallel diagonal lines inside it.
+2. This image shows a black heart shape with parallel horizontal lines inside it.
+3. This image shows a black triangle with parallel diagonal lines inside it.
+4. This image shows a black rectangular shape with parallel vertical lines inside it.
+5. This image shows a black oval shape with parallel diagonal lines inside it.
+6. This image shows a black diamond shape with parallel horizontal lines inside it.
+
+The main difference between the left group and the right group is the orientation of the lines inside the shapes. The left group has shapes with parallel vertical or horizontal lines, while the right group has shapes with parallel diagonal lines.
+</thinking>
+
+<answer>
+The key difference between the left group and the right group is the orientation of the lines inside the shapes. The left group has shapes with parallel vertical or horizontal lines, while the right group has shapes with parallel diagonal lines.
+</answer>

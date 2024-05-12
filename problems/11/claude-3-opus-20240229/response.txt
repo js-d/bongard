@@ -1,0 +1,23 @@
+Left group:
+1. An outlined diamond shape with open interior space
+2. Three connected line segments forming an open V-like shape
+3. A curved line forming an incomplete circle or C-shape with open ends
+4. A diagonal line segment with a shorter perpendicular segment, forming an open L-like shape
+5. A horizontal line segment with open space on both sides
+6. Two connected line segments forming a less-than symbol or sideways V shape
+
+Right group:
+1. A filled-in circle with no interior space
+2. A filled-in hexagon shape with no interior space
+3. A filled-in square with no interior space
+4. A filled-in rectangle with no interior space
+5. A filled-in circle with no interior space
+6. A filled-in circle with no interior space
+
+<thinking>
+The key difference between the left and right groups seems to be whether the shapes have open interior space or are filled in. The left group contains outline shapes made of lines, curves, and connected line segments that create open interior spaces. In contrast, the right group contains solidly filled-in geometric shapes like circles, hexagons, squares and rectangles with no open interior spaces.
+</thinking>
+
+<answer>
+The shapes in the left group are outlines or incomplete shapes made of lines and curves, leaving open interior space. The shapes in the right group are all solidly filled-in geometric shapes with no open interior space.
+</answer>

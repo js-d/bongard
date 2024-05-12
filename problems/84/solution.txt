@@ -1,0 +1,1 @@
+A quadrangle is outside of a figure made by circles vs. a quadrangle is inside of a figure made by circles.

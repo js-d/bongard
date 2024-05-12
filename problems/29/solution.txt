@@ -1,0 +1,1 @@
+There are more small circles inside the figure outline than outside vs. there are fewer small circles inside the figure outline than outside.

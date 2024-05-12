@@ -1,0 +1,1 @@
+Shading thicker on the right side vs. shading thicker on the left side.

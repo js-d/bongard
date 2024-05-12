@@ -1,0 +1,1 @@
+Clockwise spiraling curve vs. counter-clockwise spiraling curve.
